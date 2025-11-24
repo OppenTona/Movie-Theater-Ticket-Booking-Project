@@ -1,2 +1,2 @@
 # Movie-Theater-Ticket-Booking-Project
-Just simple project for Midterm exam
+A simple midterm exam project developed in 30 minutes and awarded a score of 9.
